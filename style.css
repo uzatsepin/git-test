@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+}
 .about-h1 {
     font-size: 2em;
     color: #333;
